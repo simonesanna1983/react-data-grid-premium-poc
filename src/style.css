@@ -1,0 +1,8 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.MuiDataGrid-columnHeaderTitle {
+  font-weight: 600;
+}
